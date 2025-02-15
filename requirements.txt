@@ -94,7 +94,6 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 numba==0.59.1
 numpy==1.26.4
-open3d==0.18.0
 openai==1.54.3
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
